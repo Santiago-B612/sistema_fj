@@ -49,5 +49,5 @@ def ejecutar():   #Función principal para ejecutar las pruebas simuladas
     for r in resultados:  #con este ciclo se imprimen en pantalla los resultados de todas las pruebas simuladas
         print(r)
 
-if __name__ == '__main__':  #Ejecutando la función principal
+if __name__ == '__main__':  # Ejecutando la función principal
     ejecutar()
