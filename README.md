@@ -12,3 +12,6 @@ python main.py
 - Excepciones personalizadas
 - Logging
 - Simulaciones
+
+## Fase 4 del curso de Programación
+- Trabajo del grupo 119
